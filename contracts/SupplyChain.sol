@@ -15,7 +15,7 @@ contract SupplyChain {
   uint skuCount;
 
   /* Add a line that creates a public mapping that maps the SKU (a number) to an Item.
-     Call this mappings items
+     Call this mappings itemsCA-bootcamp-s19/supply-chain-exercise-wanderingcfa
   */
   mapping (uint => Item ) public items;
 
